@@ -1,0 +1,3 @@
+This is fileA and it is newly created by terminal and edited by command line VI 
+modify again
+
